@@ -1,0 +1,6 @@
+requests>=2.31.0
+socket
+ipwhois>=1.2.0
+folium>=0.14.0
+maxminddb>=2.2.0
+concurrent-log-handler>=0.9.20
